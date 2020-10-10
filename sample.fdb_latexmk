@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1602345709 "c:/Users/Trivaan/Desktop/sample/sample.tex" "c:/Users/Trivaan/Desktop/sample/sample.pdf" "sample" 1602345730
+["pdflatex"] 1602358410 "c:/Users/Trivaan/Desktop/sample/sample.tex" "c:/Users/Trivaan/Desktop/sample/sample.pdf" "sample" 1602358411
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
@@ -19,14 +19,14 @@
   "C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1600956116 23704 02c466ff883953a445c97e55638005fc ""
   "C:/Users/Trivaan/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1602340953 10249157 db032365a3b3d9fe5934034f6ee5a472 ""
   "C:/Users/Trivaan/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1602340834 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
-  "c:/Users/Trivaan/Desktop/sample/sample.aux" 1602345709 557 256e03fd57d151bda8e218af788c73fb ""
-  "c:/Users/Trivaan/Desktop/sample/sample.tex" 1602345730 1188 7cee058461ad388e50194e4ddc725afc ""
+  "c:/Users/Trivaan/Desktop/sample/sample.aux" 1602358411 632 a58329184e3e4fbdcefe5b18ebe0b952 ""
+  "c:/Users/Trivaan/Desktop/sample/sample.tex" 1602358409 1256 4823034b7e887c70fd2dc980c732098a ""
   "pic/acc_zoom.PNG" 1602344876 15132 d9ea46a4036dc5b438162adf2d5798f8 ""
-  "sample.aux" 1602345709 557 256e03fd57d151bda8e218af788c73fb "pdflatex"
-  "sample.tex" 1602345730 1188 7cee058461ad388e50194e4ddc725afc ""
+  "sample.aux" 1602358411 632 a58329184e3e4fbdcefe5b18ebe0b952 "pdflatex"
+  "sample.tex" 1602358409 1256 4823034b7e887c70fd2dc980c732098a ""
   (generated)
+  "c:/Users/Trivaan/Desktop/sample/sample.pdf"
   "sample.aux"
   "sample.pdf"
-  "c:/Users/Trivaan/Desktop/sample/sample.pdf"
-  "sample.log"
   "c:/Users/Trivaan/Desktop/sample/sample.log"
+  "sample.log"
